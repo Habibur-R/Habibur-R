@@ -1,7 +1,7 @@
 Hi 👋 My name is Habibur Rahman
 ===============================
 
-I'm interested in open source machine learning and how we can best utilize programming to improve our own quality of life.
+I'm interested in open source machine learning and how we can best utilize programming to improve our quality of life.
 
 * 🌍  I'm based in London
 * 🧠  I'm learning supervised machine learning
