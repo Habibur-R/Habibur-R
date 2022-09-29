@@ -1,4 +1,4 @@
-Hi 👋 My name is Habibur Rahman
+Hi 👋 My name is Habibur
 ===============================
 
 I'm interested in open source machine learning and how we can best utilize programming to improve our quality of life.
