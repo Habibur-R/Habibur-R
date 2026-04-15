@@ -1,11 +1,11 @@
-Hi 👋 My name is Habibur
+Hi 👋 My name's Habib
 ===============================
 
-I'm interested in open source machine learning and how we can best utilize programming to improve business and consumer needs, as well as everyday life.
+I'm interested in networking, infastructure and cloud engineering and how we can best utilise these technologies to improve business and consumer needs.
 
 * 🌍  I'm based in London
-* 🧠  I'm learning supervised machine learning
-* 🤝  I'm open to collaborating on data science projects
+* 🧠  I'm currently pursuing my CCNA certification
+* 🤝  I'm open to collaboration
 
 ### Skills
 
