@@ -1,4 +1,4 @@
-Hi 👋 my name's Habib
+👋 Hi my name's Habib 
 ===============================
 
 I'm interested in networking, infastructure and cloud engineering and how we can best utilise these technologies to improve business and consumer needs.
