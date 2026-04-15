@@ -15,7 +15,7 @@ I'm interested in networking, infastructure and cloud engineering and how we can
 <img src="https://www.readmecodegen.com/api/social-icon?name=python" alt="python" />
 <img src="https://www.readmecodegen.com/api/social-icon?name=linux" alt="linux" />
 <img src="https://www.readmecodegen.com/api/social-icon?name=windows" alt="windows" />
-<img src="https://www.readmecodegen.com/api/social-icon?name=proxmox" alt="proxmox" /></p>
+<img src="https://www.readmecodegen.com/api/social-icon?name=proxmox" alt="proxmox" />
 <img src="https://www.readmecodegen.com/api/social-icon?name=server" alt="server" />
 <img src="https://www.readmecodegen.com/api/social-icon?name=database" alt="database" />
 
