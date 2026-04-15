@@ -12,8 +12,11 @@ I'm interested in networking, infastructure and cloud engineering and how we can
 
 <p align="left">
 
-<img src="https://www.readmecodegen.com/api/social-icon?name=python&size=96" alt="python" />
-<img src="https://www.readmecodegen.com/api/social-icon?name=linux&size=96" alt="linux" />
-
+<img src="https://www.readmecodegen.com/api/social-icon?name=python" alt="python" />
+<img src="https://www.readmecodegen.com/api/social-icon?name=linux" alt="linux" />
+<img src="https://www.readmecodegen.com/api/social-icon?name=windows" alt="windows" />
+<img src="https://www.readmecodegen.com/api/social-icon?name=proxmox" alt="proxmox" /></p>
+<img src="https://www.readmecodegen.com/api/social-icon?name=server" alt="server" />
+<img src="https://www.readmecodegen.com/api/social-icon?name=database" alt="database" />
 
 </p>
