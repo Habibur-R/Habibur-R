@@ -19,5 +19,5 @@ I'm interested in networking, infastructure and cloud engineering and how we can
 <img src="https://www.readmecodegen.com/api/social-icon?name=proxmox" alt="proxmox" />
 <img src="https://www.readmecodegen.com/api/social-icon?name=server" alt="server" />
 <img src="https://www.readmecodegen.com/api/social-icon?name=database" alt="database" />
-
+<img src="https://www.readmecodegen.com/api/social-icon?name=jupyter" alt="jupyter" />
 </p>
