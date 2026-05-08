@@ -4,7 +4,7 @@ Hi, my name's Habib 👋
 I'm interested in networking, infastructure and cloud engineering and how we can best utilise these technologies to improve business and consumer needs.
 
 * 🌍  I'm based in London
-* 🧠  I'm currently pursuing my CCNA certification
+* 🧠  I'm currently pursuing IT roles
 * 🤝  I'm open to collaboration
 
 ### Skills
