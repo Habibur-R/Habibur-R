@@ -1,7 +1,7 @@
 Hi, my name's Habib 👋 
 ===============================
 
-I'm interested in networking, infastructure and cloud engineering and how we can best utilise these technologies to improve business and consumer needs.
+I'm interested in IT and how we can best utilise modern technologies to improve business and consumer needs.
 
 * 🌍  I'm based in London
 * 🧠  I'm currently pursuing IT roles
